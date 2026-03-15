@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird (Clone)",
+    "description": "Fly through the pipes without hitting them.",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "Classic block-stacking puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Eat the apples and grow longer without hitting the walls.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "dino-run",
+    "title": "Dino Run",
+    "description": "The classic offline dinosaur game.",
+    "url": "https://chromedino.com/",
+    "thumbnail": "https://picsum.photos/seed/dino/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Conquer as much territory as possible.",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "category": "IO"
+  }
+]
